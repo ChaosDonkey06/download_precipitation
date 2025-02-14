@@ -1,0 +1,8 @@
+name,value
+group_dir,/Users/chaosdonkey06/Dropbox/Pascual-lab/DengueThailand
+data_dir,/Users/chaosdonkey06/Dropbox/Pascual-lab/DengueThailand/data
+results_dir,/Users/chaosdonkey06/Dropbox/Pascual-lab/DengueThailand/results
+figures_dir,/Users/chaosdonkey06/Dropbox/Pascual-lab/DengueThailand/figures
+paper_dir,/Users/chaosdonkey06/Dropbox/Pascual-lab/DengueThailand/paper
+results_cluster_dir,/scratch/jc12343/pascual_lab/DengueThailand/results
+data_cluster_dir,/scratch/jc12343/pascual_lab/DengueThailand/data
